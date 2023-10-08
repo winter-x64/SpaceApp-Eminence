@@ -9,4 +9,5 @@ Setup a venv
 > Or just install django `pip install django`
 
 Run file
+- `cd TrueNorth`
 - `python manage.py runserver`
